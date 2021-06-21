@@ -19,8 +19,22 @@
 </p>
 
 - 👋 Hi, I’m @phuongnam0907
-- 👀 I’m interested in [Artificial Intelligence]() and [Linux Kernel <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="20px">](https://github.com/torvalds/linux)
-- 🌱 I’m currently learning Python, C/C++ System and [OMNET++ 4.6]() with [Mixim Project v2.3]()
+- 👀 I’m interested in:
+  <p>
+    <ul>
+      <li><a href="#">Artificial Intelligence</a></li>
+      <li><a href="https://github.com/torvalds/linux">Linux Kernel <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="20px"></a></li>
+    </ul>
+  </p>
+- 🌱 I’m currently learning:
+  <p>
+    <ul>
+      <li><a href="#">Python</a></li>
+      <li><a href="#">C/C++ System Platform</a></li>
+      <li><a href="https://omnetpp.org/download/old.html">OMNET++ v4.6</a> with <a href="https://github.com/omnetpp-models/mixim.git">Mixim Project v2.3</a></li>
+      <li><a href="https://www.youtube.com/watch?v=TPrnSACiTJ4&list=RDCMUCOKHwx1VCdgnxwbjyb9Iu1g&index=5">Blender</a> with <a href="https://www.reddit.com/r/BlenderDoughnuts/">Reddit forum</a></li>
+    </ul>
+  </p>
 - 💞️ I’m looking to collaborate on [NPN-Lab](https://github.com/npnlab-vn)
 - 📫 How to reach me [Youtube Channel](https://www.youtube.com/channel/UCLi7lD_wIj-qsab32HuSxGg)
 
