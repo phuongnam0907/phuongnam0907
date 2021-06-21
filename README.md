@@ -1,12 +1,24 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="3000px" align="center">
-</p>
+# Hi, I'm Nam and this is my Github Summary
+
+My Github's Stats <br>
+[![github stats](https://github-readme-stats.vercel.app/api?username=phuongnam0907&show_icons=true&theme=cobalt)](https://github.com/phuongnam0907/)<br>
+
+My Top Languages Card <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuongnam0907&langs_count=3&theme=nightowl)](https://github.com/phuongnam0907/)<br>
+
+Repos GitHub Extra Pins<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phuongnam0907&theme=bear&repo=python_data_science)](https://github.com/phuongnam0907/python_data_science)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phuongnam0907&theme=midnight-purple&repo=omnetpp)](https://github.com/phuongnam0907/omnetpp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phuongnam0907&theme=synthwave&repo=AIO_3399J_Schematic&show_owner=true&bg_color=45,2b5876,4e4376)](https://github.com/phuongnam0907/AIO_3399J_Schematic)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phuongnam0907&theme=shades-of-purple&repo=DemoAutoTest)](https://github.com/phuongnam0907/DemoAutoTest)<br>
+
+<br>Follow this [guide](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 <p align="center">
-<!--   <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •   -->
-<!--   <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social"></a>  • -->
-<!--   <a href="https://swyx.io">Blog</a> • -->
-<!--   <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton">Twitter</a> • -->
+  <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="3000px" align="center">
   • • • <a href="https://github.com/phuongnam0907/README">Work README</a> • • • 
 </p>
 
@@ -35,13 +47,6 @@
   </p>
 - 💞️ I’m looking to collaborate on [NPN-Lab](https://github.com/npnlab-vn)
 - 📫 How to reach me [Youtube Channel](https://www.youtube.com/channel/UCLi7lD_wIj-qsab32HuSxGg)
-
----
-Follow this [guide](https://github.com/anuraghazra/github-readme-stats)
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=phuongnam0907&show_icons=true&theme=cobalt)](https://github.com/phuongnam0907/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuongnam0907&langs_count=3&theme=nightowl)](https://github.com/phuongnam0907/)
 
 ---
 | Now Playing                                                                                                                    |
