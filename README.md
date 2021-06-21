@@ -1,4 +1,8 @@
-![gif from nerdy.dev](https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif)
+<!-- ![gif from nerdy.dev](https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif) -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="3000px" align="center">
+</p>
 
 <p align="center">
 <!--   <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •   -->
@@ -10,13 +14,28 @@
 
 
 ---
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" align="center">
+</p>
 
 - 👋 Hi, I’m @phuongnam0907
 - 👀 I’m interested in [Artificial Intelligence]() and [Linux Kernel <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="20px">](https://github.com/torvalds/linux)
 - 🌱 I’m currently learning Python and C/C++ System
 - 💞️ I’m looking to collaborate on [NPN-Lab](https://github.com/npnlab-vn)
 - 📫 How to reach me [Youtube Channel](https://www.youtube.com/channel/UCLi7lD_wIj-qsab32HuSxGg)
+
+---
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <br><br>
+  <samp>
+    :wave: Hi! I DO NOT design for GitHub.
+    <br>This content is <em>JUST COPIED</em> :sparkles:<br><br>
+    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
+    <br><br>:coffee: Wanna chat? :point_right: Find me on <a href="https://www.facebook.com/phuongnam09071997/">Facebook</a>
+  </samp>
+</p>
+
 
 <!---
 phuongnam0907/phuongnam0907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
