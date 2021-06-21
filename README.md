@@ -1,5 +1,3 @@
-<!-- ![gif from nerdy.dev](https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif) -->
-
 <p align="center">
   <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="3000px" align="center">
 </p>
@@ -37,6 +35,13 @@
   </p>
 - 💞️ I’m looking to collaborate on [NPN-Lab](https://github.com/npnlab-vn)
 - 📫 How to reach me [Youtube Channel](https://www.youtube.com/channel/UCLi7lD_wIj-qsab32HuSxGg)
+
+---
+Follow this [guide](https://github.com/anuraghazra/github-readme-stats)
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=phuongnam0907&show_icons=true&theme=cobalt)](https://github.com/phuongnam0907/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuongnam0907&langs_count=3&theme=nightowl)](https://github.com/phuongnam0907/)
 
 ---
 | Now Playing                                                                                                                    |
