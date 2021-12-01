@@ -49,6 +49,13 @@ Repos GitHub Extra Pins<br>
 - 📫 How to reach me [Youtube Channel](https://www.youtube.com/channel/UCLi7lD_wIj-qsab32HuSxGg)
 
 ---
+
+### Spotify Playing 🎧
+
+[<img src="https://github-readme-stats.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/63a9d50d4f6f4f808f6f50b7e7a28d70)
+
+
+---
 | Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
