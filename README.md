@@ -52,7 +52,7 @@ Repos GitHub Extra Pins<br>
 
 ### Spotify Playing 🎧
 
-[<img src="https://github-readme-stats.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/63a9d50d4f6f4f808f6f50b7e7a28d70)
+[<img src="https://potify-now-playing-phuongnam0907.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/63a9d50d4f6f4f808f6f50b7e7a28d70)
 
 
 ---
