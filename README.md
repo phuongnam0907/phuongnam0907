@@ -58,7 +58,7 @@ Repos GitHub Extra Pins<br>
 ---
 | Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
+| <a href="https://open.spotify.com/user/63a9d50d4f6f4f808f6f50b7e7a28d70?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
 
 
 <table>
