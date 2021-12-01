@@ -47,18 +47,18 @@ Repos GitHub Extra Pins<br>
   </p>
 - 💞️ I’m looking to collaborate on [NPN-Lab](https://github.com/npnlab-vn)
 - 📫 How to reach me [Youtube Channel](https://www.youtube.com/channel/UCLi7lD_wIj-qsab32HuSxGg)
-
+<!-- 
 ---
 
 ### Spotify Playing 🎧
-
-[<img src="https://potify-now-playing-phuongnam0907.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/63a9d50d4f6f4f808f6f50b7e7a28d70)
+ -->
+<!-- [<img src="https://potify-now-playing-phuongnam0907.vercel.app/api/spotify-playing.py" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/track/4vGEfBrpiM4zfYzSyPpysX) -->
 
 
 ---
-| Now Playing                                                                                                                    |
+| Spotify Playing 🎧                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://open.spotify.com/user/63a9d50d4f6f4f808f6f50b7e7a28d70?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
+| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
 
 
 <table>
