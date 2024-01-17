@@ -1,5 +1,8 @@
 # Hi, I'm Nam and this is my Github Summary
 
+🏆 Trophy <br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=phuongnam0907&theme=gruvbox&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)<br>
+
 My Github's Stats <br>
 [![github stats](https://github-readme-stats.vercel.app/api?username=phuongnam0907&show_icons=true&theme=cobalt)](https://github.com/phuongnam0907/)<br>
 
